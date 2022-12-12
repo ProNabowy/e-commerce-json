@@ -17,7 +17,7 @@
   },
     {
     "id": 2,
-    "title": "Puffer Down Jacket",
+    "title": "Puffer Down",
     "price": "EGP425.00",
     "count": "1",
     "size": "1",
@@ -32,7 +32,7 @@
   },
     {
     "id": 3,
-    "title": "Puffer Shiny Jacket",
+    "title": "Puffer Shiny",
     "price": "$30.20",
     "count": "1",
     "size": "1",
@@ -47,7 +47,7 @@
   },
     {
     "id": 4,
-    "title": "Slim Fit Denim",
+    "title": "Slim Denim",
     "price": "EGP1,187.32",
     "count": "1",
     "size": "1",
@@ -62,7 +62,7 @@
   },
     {
     "id": 5,
-    "title": "Stylish-Leather-Jacket",
+    "title": "Stylish-Leather",
     "price": "EGP1,499.00",
     "count": "1",
     "size": "1",
@@ -92,7 +92,7 @@
   },
     {
     "id": 7,
-    "title": "Outwear Coat Baseball",
+    "title": "Outwear Baseball",
     "price": "$22.90",
     "count": "1",
     "size": "1",
@@ -107,7 +107,7 @@
   },
     {
     "id": 8,
-    "title": "Sleeve print Printed",
+    "title": "Sleeve Printed",
     "price": "$21.50",
     "count": "1",
     "size": "1",
@@ -124,7 +124,7 @@
   "sweatshirts": [
     {
     "id": 9,
-    "title": "Dye Embroidery Hoodies",
+    "title": "Dye Embroidery",
     "price": "$70.00",
     "count": "1",
     "size": "1",
@@ -139,7 +139,7 @@
   },
     {
     "id": 10,
-    "title": "Embroidered Unisex Hoodies",
+    "title": "Embroidered Unisex",
     "price": "$10.00",
     "count": "1",
     "size": "1",
@@ -154,7 +154,7 @@
   },
     {
     "id": 11,
-    "title": "Embroidery Velour Hoodie",
+    "title": "Embroidery Velour",
     "price": "$50.00",
     "count": "1",
     "size": "1",
@@ -169,7 +169,7 @@
   },
     {
     "id": 12,
-    "title": "Printing Ribbon Hoodie",
+    "title": "Printing Ribbon",
     "price": "$50.00",
     "count": "1",
     "size": "1",
@@ -214,7 +214,7 @@
   },
     {
     "id": 15,
-    "title": "Sweatshirts Custom Hoodies",
+    "title": "Sweatshirts Custom",
     "price": "$6.99",
     "count": "1",
     "size": "1",
@@ -229,7 +229,7 @@
   },
     {
     "id": 16,
-    "title": "Wholesale Custom Oversized",
+    "title": "Wholesale Oversized",
     "price": "$18.00",
     "count": "1",
     "size": "1",
@@ -261,7 +261,7 @@
   },
     {
     "id": 18,
-    "title": "Causal Panther Pattern",
+    "title": "Causal Panther",
     "price": "$6.50",
     "count": "1",
     "size": "1",
@@ -291,7 +291,7 @@
   },
     {
     "id": 20,
-    "title": "Fashion Streetwear Sport",
+    "title": "Streetwear Sport",
     "price": "$9.23",
     "count": "1",
     "size": "1",
@@ -306,7 +306,7 @@
   },
     {
     "id": 21,
-    "title": "Round Collar Leisure",
+    "title": "Round Leisure",
     "price": "$9.23",
     "count": "1",
     "size": "1",
@@ -336,7 +336,7 @@
   },
     {
     "id": 23,
-    "title": "Sleeve Round Neck",
+    "title": "Sleeve Neck",
     "price": "$5.50",
     "count": "1",
     "size": "1",
@@ -351,7 +351,7 @@
   },
     {
     "id": 24,
-    "title": "Wholesale Oversized Blank",
+    "title": "Oversized Blank",
     "price": "$9.23",
     "count": "1",
     "size": "1",
