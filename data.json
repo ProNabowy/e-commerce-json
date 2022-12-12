@@ -1,0 +1,369 @@
+{
+  "jacket": [
+    {
+    "id": 1,
+    "title": "Hooded Jackets",
+    "price": "$30.50",
+    "count": "1",
+    "size": "1",
+    "decrption": "Winter Men Hooded Jackets Print Logo Solid Color Thicken Warm Puffer Jacket Bubble Coats",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Hooded%20Jackets-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Hooded%20Jackets%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Hooded%20Jackets%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Hooded%20Jackets%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Hooded%20Jackets%20four.webp"
+      }
+  },
+    {
+    "id": 2,
+    "title": "Puffer Down Jacket",
+    "price": "EGP425.00",
+    "count": "1",
+    "size": "1",
+    "decrption": "Winter Puffer Down Jacket Zipper with Removable Hood",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Down%20Jacket%20sm-one.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Down%20Jacket%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Down%20Jacket%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Down%20Jacket%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Down%20Jacket%20four.webp"
+      }
+  },
+    {
+    "id": 3,
+    "title": "Puffer Shiny Jacket",
+    "price": "$30.20",
+    "count": "1",
+    "size": "1",
+    "decrption": "Men Fashion New Design Winter Puffer Shiny Jacket Warm Padding Wholesale Bubble Bomber Jacket",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Shiny%20Jacket%20one-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Shiny%20Jacket%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Shiny%20Jacket%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Shiny%20Jacket%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Puffer%20Shiny%20Jacket%20four.webp"
+      }
+  },
+    {
+    "id": 4,
+    "title": "Slim Fit Denim",
+    "price": "EGP1,187.32",
+    "count": "1",
+    "size": "1",
+    "decrption": "Coup mens Coup - Slim Fit Basic Contrast Denim Jacket With Melton Long Sleeves For Men OUTERWEAR",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Slim-Fit-Basic-Contrast-Denim-two.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Slim-Fit-Basic-Contrast-Denim-one-sm.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Slim-Fit-Basic-Contrast-Denim-two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Slim-Fit-Basic-Contrast-Denim-three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Slim%20Fit%20Basic%20Contrast%20Denim%20four.webp"
+      }
+  },
+    {
+    "id": 5,
+    "title": "Stylish-Leather-Jacket",
+    "price": "EGP1,499.00",
+    "count": "1",
+    "size": "1",
+    "decrption": "Stylish Leather Jacket Men Design Elegant - Pure Leather with zipper",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Stylish-Leather-Jacket-sm-one.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Stylish-Leather-Jacket-one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Stylish-Leather-Jacket-two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Stylish-Leather-Jacket-three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Stylish-Leather-Jacket-four.webp"
+      }
+  },
+    {
+    "id": 6,
+    "title": "Fleece Jacket",
+    "price": "$22.60",
+    "count": "1",
+    "size": "1",
+    "decrption": "Stand Collar Sherpa Outerwear Lambs Wool Allover Print Logo Shearling Winter Fleece Jacket Men Lamb Fur Jackets",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Fleece%20Jacket-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Fleece%20Jacket%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Fleece%20Jacket%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Fleece%20Jacket%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Fleece%20Jacket%20four.webp"
+      }
+  },
+    {
+    "id": 7,
+    "title": "Outwear Coat Baseball",
+    "price": "$22.90",
+    "count": "1",
+    "size": "1",
+    "decrption": "Men's Casual Longsleeve Round Low Collar Outwear Coat Baseball Uniform Clothes For Man Button Cardigan Printed Letter Embroider",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Outwear%20Coat%20Baseball%20one-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Outwear%20Coat%20Baseball%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Outwear%20Coat%20Baseball%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Outwear%20Coat%20Baseball%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Outwear%20Coat%20Baseball%20four.webp"
+      }
+  },
+    {
+    "id": 8,
+    "title": "Sleeve print Printed",
+    "price": "$21.50",
+    "count": "1",
+    "size": "1",
+    "decrption": "new design Wholesale men's cotton long sleeve print Printed Jackets For Women",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sleeve%20print%20Printed%20-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sleeve%20print%20Printed%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sleeve%20print%20Printed%20%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sleeve%20print%20Printed%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sleeve%20print%20Printed%20%20four.webp"
+      }
+  }
+],
+  "sweatshirts": [
+    {
+    "id": 9,
+    "title": "Dye Embroidery Hoodies",
+    "price": "$70.00",
+    "count": "1",
+    "size": "1",
+    "decrption": "wholesale tie dye embroidery hoodies, french terry hoodie for men",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/dye%20embroidery%20hoodies%20one-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/dye%20embroidery%20hoodies%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/dye%20embroidery%20hoodies%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/dye%20embroidery%20hoodies%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/dye%20embroidery%20hoodies%20four.webp"
+      }
+  },
+    {
+    "id": 10,
+    "title": "Embroidered Unisex Hoodies",
+    "price": "$10.00",
+    "count": "1",
+    "size": "1",
+    "decrption": "Side woven tape embroidered unisex hoodies organic cotton pullover hoodie with sports",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/embroidered%20unisex%20hoodies%20one-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/embroidered%20unisex%20hoodies%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/embroidered%20unisex%20hoodies%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/embroidered%20unisex%20hoodies%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/embroidered%20unisex%20hoodies%20four.webp"
+      }
+  },
+    {
+    "id": 11,
+    "title": "Embroidery Velour Hoodie",
+    "price": "$50.00",
+    "count": "1",
+    "size": "1",
+    "decrption": "Custom Embroidery Velour Hoodie with Contrast Purple Stitching for Men",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Embroidery%20Velour%20Hoodie%20one-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Embroidery%20Velour%20Hoodie%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Embroidery%20Velour%20Hoodie%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Embroidery%20Velour%20Hoodie%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Embroidery%20Velour%20Hoodie%20four.webp"
+      }
+  },
+    {
+    "id": 12,
+    "title": "Printing Ribbon Hoodie",
+    "price": "$50.00",
+    "count": "1",
+    "size": "1",
+    "decrption": "Custom Mens Black Screen Printing Ribbon Hoodie with Hood",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Printing%20Ribbon%20Hoodie%20one-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Printing%20Ribbon%20Hoodie%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Printing%20Ribbon%20Hoodie%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Printing%20Ribbon%20Hoodie%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Printing%20Ribbon%20Hoodie%20four.webp"
+      }
+  },
+    {
+    "id": 13,
+    "title": "Subbank Wholesale",
+    "price": "$9.50",
+    "count": "1",
+    "size": "1",
+    "decrption": "Subbank Wholesale High quality Winter Thick Sports Plus Size Men's hoodies Printed Sublimation Hoodies Custom LOGO",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Subbank%20Wholesale%20one-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Subbank%20Wholesale%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Subbank%20Wholesale%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Subbank%20Wholesale%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/Subbank%20Wholesale%20four.webp"
+      }
+  },
+    {
+    "id": 14,
+    "title": "Sweatshirts Crewneck",
+    "price": "$50.00",
+    "count": "1",
+    "size": "1",
+    "decrption": "fashion street french terry 100% cotton quality hoodies, custom sweatshirts crewneck for mens",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sweatshirts%20crewneck%20one-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sweatshirts%20crewneck%20one.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sweatshirts%20crewneck%20two.webp",
+      "lg-three": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sweatshirts%20crewneck%20three.webp",
+      "lg-four": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sweatshirts%20crewneck%20four.webp"
+      }
+  },
+    {
+    "id": 15,
+    "title": "Sweatshirts Custom Hoodies",
+    "price": "$6.99",
+    "count": "1",
+    "size": "1",
+    "decrption": "New arrivals plus size men's hoodies & sweatshirts custom hoodies oversized plain men's hoodies",
+    "images": {
+      "sm": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sweatshirts%20custom%20hoodies%20one-sm.webp",
+      "lg-one": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sweatshirts%20custom%20hoodies%20two.webp",
+      "lg-two": "https://raw.githubusercontent.com/ProNabowy/e-commerce-img/main/sweatshirts%20custom%20hoodies%20three.webp",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/sweatshirts%20custom%20hoodies%20three.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/sweatshirts%20custom%20hoodies%20four.webp?raw=true"
+      }
+  },
+    {
+    "id": 16,
+    "title": "Wholesale Custom Oversized",
+    "price": "$18.00",
+    "count": "1",
+    "size": "1",
+    "decrption": "2022 wholesale custom oversized thick blank heavyweight 400gsm hoodie 100% cotton pullover plus size men's hoodies & sweatshirts",
+    "images": {
+      "sm": "https://github.com/ProNabowy/e-commerce-img/blob/main/wholesale%20custom%20oversized%20one-sm.webp?raw=true",
+      "lg-one": "https://github.com/ProNabowy/e-commerce-img/blob/main/wholesale%20custom%20oversized%20one.webp?raw=true",
+      "lg-two": "https://github.com/ProNabowy/e-commerce-img/blob/main/wholesale%20custom%20oversized%20two.webp?raw=true",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/wholesale%20custom%20oversized%20three.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/wholesale%20custom%20oversized%20four.webp?raw=true"
+      }
+  }
+  ],
+  "t-shirt": [
+    {
+    "id": 17,
+    "title": "Activewear",
+    "price": "$10.23",
+    "count": "1",
+    "size": "1",
+    "decrption": "hot sale Gym fitness Sports men 100% Cotton Plain Custom activewear Men'S T Shirt",
+    "images": {
+      "sm": "https://github.com/ProNabowy/e-commerce-img/blob/main/activewear%20one-sm.webp?raw=true",
+      "lg-one": "https://github.com/ProNabowy/e-commerce-img/blob/main/activewear%20one.webp?raw=true",
+      "lg-two": "https://github.com/ProNabowy/e-commerce-img/blob/main/activewear%20two.webp?raw=true",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/activewear%20three.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/activewear%20four.webp?raw=true"
+      }
+  },
+    {
+    "id": 18,
+    "title": "Causal Panther Pattern",
+    "price": "$6.50",
+    "count": "1",
+    "size": "1",
+    "decrption": "T Shirt Causal Panther Pattern Summer Style Wholesale Mens Tee Men Fashion Short Sleeve Distress Leopard Printing Casual Knitted",
+    "images": {
+      "sm": "https://github.com/ProNabowy/e-commerce-img/blob/main/Causal%20Panther%20Pattern%20one-sm.webp?raw=true",
+      "lg-one": "https://github.com/ProNabowy/e-commerce-img/blob/main/Causal%20Panther%20Pattern%20one.webp?raw=true",
+      "lg-two": "https://github.com/ProNabowy/e-commerce-img/blob/main/Causal%20Panther%20Pattern%20two.webp?raw=true",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/Causal%20Panther%20Pattern%20three.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/Causal%20Panther%20Pattern%20four.webp?raw=true"
+      }
+  },
+    {
+    "id": 19,
+    "title": "Fancy Plus",
+    "price": "$9.90",
+    "count": "1",
+    "size": "1",
+    "decrption": "Fancy Plus Size Men's T-shirts Custom Tee Shirt Printing T shirts 100% Cotton for Men",
+    "images": {
+      "sm": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fancy%20Plus%20one-sm.webp?raw=true",
+      "lg-one": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fancy%20Plus%20one.webp?raw=true",
+      "lg-two": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fancy%20Plus%20two.webp?raw=true",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fancy%20Plus%20three.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fancy%20Plus%20four.webp?raw=true"
+      }
+  },
+    {
+    "id": 20,
+    "title": "Fashion Streetwear Sport",
+    "price": "$9.23",
+    "count": "1",
+    "size": "1",
+    "decrption": "high quality summer Fashion streetwear sport mens tshirt and custom logo shorts and casual t shirt set men",
+    "images": {
+      "sm": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fashion%20streetwear%20sport%20one-sm.webp?raw=true",
+      "lg-one": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fashion%20streetwear%20sport%20one.webp?raw=true",
+      "lg-two": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fashion%20streetwear%20sport%20two.webp?raw=true",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fashion%20streetwear%20sport%20three.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/Fashion%20streetwear%20sport%20four.webp?raw=true"
+      }
+  },
+    {
+    "id": 21,
+    "title": "Round Collar Leisure",
+    "price": "$9.23",
+    "count": "1",
+    "size": "1",
+    "decrption": "Round collar leisure simple sport quick dry shirt men's short sleeve outdoor fitness mountaineering breathable T-shirt",
+    "images": {
+      "sm": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20collar%20leisure%20one-sm.webp?raw=true",
+      "lg-one": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20collar%20leisure%20one.webp?raw=true",
+      "lg-two": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20collar%20leisure%20two.webp?raw=true",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20collar%20leisure%20three.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20collar%20leisure%20four.webp?raw=true"
+      }
+  },
+    {
+    "id": 22,
+    "title": "Round Neck",
+    "price": "$16.20",
+    "count": "1",
+    "size": "1",
+    "decrption": "New Fashion Men's Letter Graphic Print Short Sleeve Solid Round Neck T Shirt Tee",
+    "images": {
+      "sm": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20Neck%20one-sm.webp?raw=true",
+      "lg-one": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20Neck%20one.webp?raw=true",
+      "lg-two": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20Neck%20two.webp?raw=true",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20Neck%20three.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/Round%20Neck%20four.webp?raw=true"
+      }
+  },
+    {
+    "id": 23,
+    "title": "Sleeve Round Neck",
+    "price": "$5.50",
+    "count": "1",
+    "size": "1",
+    "decrption": "Custom print 100% cotton short sleeve round neck men's plain blank white cotton t shirts High quality custom printing men Tee",
+    "images": {
+      "sm": "https://github.com/ProNabowy/e-commerce-img/blob/main/sleeve%20round%20neck%20one-sm.webp?raw=true",
+      "lg-one": "https://github.com/ProNabowy/e-commerce-img/blob/main/sleeve%20round%20neck%20%20two.webp?raw=true",
+      "lg-two": "https://github.com/ProNabowy/e-commerce-img/blob/main/sleeve%20round%20neck%20three.webp?raw=true",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/sleeve%20round%20neck%20%20two.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/sleeve%20round%20neck%20%20four.webp?raw=true"
+      }
+  },
+    {
+    "id": 24,
+    "title": "Wholesale Oversized Blank",
+    "price": "$9.23",
+    "count": "1",
+    "size": "1",
+    "decrption": "Wholesale Oversized Blank Gym 100% Cotton Plain Custom Men'S Sports T Shirt",
+    "images": {
+      "sm": "https://github.com/ProNabowy/e-commerce-img/blob/main/Wholesale%20Oversized%20Blank%20one-sm.webp?raw=true",
+      "lg-one": "https://github.com/ProNabowy/e-commerce-img/blob/main/Wholesale%20Oversized%20Blank%20one.webp?raw=true",
+      "lg-two": "https://github.com/ProNabowy/e-commerce-img/blob/main/Wholesale%20Oversized%20Blank%20two.webp?raw=true",
+      "lg-three": "https://github.com/ProNabowy/e-commerce-img/blob/main/Wholesale%20Oversized%20Blank%20three.webp?raw=true",
+      "lg-four": "https://github.com/ProNabowy/e-commerce-img/blob/main/Wholesale%20Oversized%20Blank%20four.webp?raw=true"
+      }
+  }
+  
+  ]
+}
