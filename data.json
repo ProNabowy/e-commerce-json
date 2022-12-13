@@ -4,7 +4,7 @@
     "id": 1,
     "title": "Hooded Jackets",
     "price": "$30.50",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Winter Men Hooded Jackets Print Logo Solid Color Thicken Warm Puffer Jacket Bubble Coats",
     "images": {
@@ -19,7 +19,7 @@
     "id": 2,
     "title": "Puffer Down",
     "price": "$425.00",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Winter Puffer Down Jacket Zipper with Removable Hood",
     "images": {
@@ -34,7 +34,7 @@
     "id": 3,
     "title": "Puffer Shiny",
     "price": "$30.20",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Men Fashion New Design Winter Puffer Shiny Jacket Warm Padding Wholesale Bubble Bomber Jacket",
     "images": {
@@ -49,7 +49,7 @@
     "id": 4,
     "title": "Slim Denim",
     "price": "$1,187.32",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Coup mens Coup - Slim Fit Basic Contrast Denim Jacket With Melton Long Sleeves For Men OUTERWEAR",
     "images": {
@@ -64,7 +64,7 @@
     "id": 5,
     "title": "Stylish-Leather",
     "price": "$1,499.00",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Stylish Leather Jacket Men Design Elegant - Pure Leather with zipper",
     "images": {
@@ -79,7 +79,7 @@
     "id": 6,
     "title": "Fleece Jacket",
     "price": "$22.60",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Stand Collar Sherpa Outerwear Lambs Wool Allover Print Logo Shearling Winter Fleece Jacket Men Lamb Fur Jackets",
     "images": {
@@ -94,7 +94,7 @@
     "id": 7,
     "title": "Outwear Baseball",
     "price": "$22.90",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Men's Casual Longsleeve Round Low Collar Outwear Coat Baseball Uniform Clothes For Man Button Cardigan Printed Letter Embroider",
     "images": {
@@ -109,7 +109,7 @@
     "id": 8,
     "title": "Sleeve Printed",
     "price": "$21.50",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "new design Wholesale men's cotton long sleeve print Printed Jackets For Women",
     "images": {
@@ -126,7 +126,7 @@
     "id": 9,
     "title": "Dye Embroidery",
     "price": "$70.00",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "wholesale tie dye embroidery hoodies, french terry hoodie for men",
     "images": {
@@ -141,7 +141,7 @@
     "id": 10,
     "title": "Embroidered Unisex",
     "price": "$10.00",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Side woven tape embroidered unisex hoodies organic cotton pullover hoodie with sports",
     "images": {
@@ -156,7 +156,7 @@
     "id": 11,
     "title": "Embroidery Velour",
     "price": "$50.00",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Custom Embroidery Velour Hoodie with Contrast Purple Stitching for Men",
     "images": {
@@ -171,7 +171,7 @@
     "id": 12,
     "title": "Printing Ribbon",
     "price": "$50.00",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Custom Mens Black Screen Printing Ribbon Hoodie with Hood",
     "images": {
@@ -186,7 +186,7 @@
     "id": 13,
     "title": "Subbank Wholesale",
     "price": "$9.50",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Subbank Wholesale High quality Winter Thick Sports Plus Size Men's hoodies Printed Sublimation Hoodies Custom LOGO",
     "images": {
@@ -201,7 +201,7 @@
     "id": 14,
     "title": "Sweatshirts Crewneck",
     "price": "$50.00",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "fashion street french terry 100% cotton quality hoodies, custom sweatshirts crewneck for mens",
     "images": {
@@ -216,7 +216,7 @@
     "id": 15,
     "title": "Sweatshirts Custom",
     "price": "$6.99",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "New arrivals plus size men's hoodies & sweatshirts custom hoodies oversized plain men's hoodies",
     "images": {
@@ -231,7 +231,7 @@
     "id": 16,
     "title": "Wholesale Oversized",
     "price": "$18.00",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "2022 wholesale custom oversized thick blank heavyweight 400gsm hoodie 100% cotton pullover plus size men's hoodies & sweatshirts",
     "images": {
@@ -248,7 +248,7 @@
     "id": 17,
     "title": "Activewear",
     "price": "$10.23",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "hot sale Gym fitness Sports men 100% Cotton Plain Custom activewear Men'S T Shirt",
     "images": {
@@ -263,7 +263,7 @@
     "id": 18,
     "title": "Causal Panther",
     "price": "$6.50",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "T Shirt Causal Panther Pattern Summer Style Wholesale Mens Tee Men Fashion Short Sleeve Distress Leopard Printing Casual Knitted",
     "images": {
@@ -278,7 +278,7 @@
     "id": 19,
     "title": "Fancy Plus",
     "price": "$9.90",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Fancy Plus Size Men's T-shirts Custom Tee Shirt Printing T shirts 100% Cotton for Men",
     "images": {
@@ -293,7 +293,7 @@
     "id": 20,
     "title": "Streetwear Sport",
     "price": "$9.23",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "high quality summer Fashion streetwear sport mens tshirt and custom logo shorts and casual t shirt set men",
     "images": {
@@ -308,7 +308,7 @@
     "id": 21,
     "title": "Round Leisure",
     "price": "$9.23",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Round collar leisure simple sport quick dry shirt men's short sleeve outdoor fitness mountaineering breathable T-shirt",
     "images": {
@@ -323,7 +323,7 @@
     "id": 22,
     "title": "Round Neck",
     "price": "$16.20",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "New Fashion Men's Letter Graphic Print Short Sleeve Solid Round Neck T Shirt Tee",
     "images": {
@@ -338,7 +338,7 @@
     "id": 23,
     "title": "Sleeve Neck",
     "price": "$5.50",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Custom print 100% cotton short sleeve round neck men's plain blank white cotton t shirts High quality custom printing men Tee",
     "images": {
@@ -353,7 +353,7 @@
     "id": 24,
     "title": "Oversized Blank",
     "price": "$9.23",
-    "count": "1",
+    "count": 1,
     "size": "1",
     "decrption": "Wholesale Oversized Blank Gym 100% Cotton Plain Custom Men'S Sports T Shirt",
     "images": {
